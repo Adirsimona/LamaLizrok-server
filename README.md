@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # misterBIT-simple-rest-server
 
 ## install and use
@@ -65,3 +66,6 @@ just restart the server
 
 For development purposes only!!!
 if you need something more advance, with abilities to configure routes, save the in-memory data to disk etc use [json-server](https://www.npmjs.com/package/json-server)
+=======
+# LamaLizrok-server
+>>>>>>> 74052f7742430e0defbf0e001f12d83e260ee14a
